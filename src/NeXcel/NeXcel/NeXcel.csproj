@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B6E91578-B9D9-4906-9C7B-0783B24B9F65}</ProjectGuid>
+    <ProjectGuid>{972847BD-2943-4019-8FC2-2AC75A45C8E8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>NeXcel.UnitTests</RootNamespace>
-    <AssemblyName>NeXcel.UnitTests</AssemblyName>
+    <RootNamespace>NeXcel</RootNamespace>
+    <AssemblyName>NeXcel</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
